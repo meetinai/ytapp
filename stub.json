@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"want to make yt video data shown specific chaneel like video views/likes/commentss etc and want to connect with google sheet realtime update so make it and give me good design for this website","md5":"ed23384807c5e27840a662d913771041"}]}
+{"config":{"system_prompt":"","model":"gpt-4","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[]}
