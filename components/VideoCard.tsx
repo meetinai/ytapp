@@ -12,7 +12,7 @@ interface VideoCardProps {
 
 const VideoCard: React.FC<VideoCardProps> = ({ videoData }) => {
   return (
-    <div className="bg-white shadow-md rounded-lg p-6 m-4">
+    <div className="bg-white shadow-md rounded-lg p-6 m-4 text-black">
       <h2 className="text-2xl font-bold mb-2">{videoData["Video Title"]}</h2>
       <p><strong>Views:</strong> {videoData["Video Views"]}</p>
       <p><strong>Likes:</strong> {videoData["Video Likes"]}</p>

@@ -11,7 +11,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="flex flex-wrap justify-center">
+    <div className="grid grid-cols-3 gap-4">
       {videoData.map((video, index) => (
         <VideoCard key={index} videoData={video} />
       ))}
